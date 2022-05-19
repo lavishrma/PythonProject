@@ -1,0 +1,10 @@
+VT_API_KEY: '1406f3ae17c12fadd435c9cb7d136d7c279fc4b30beb188a34bd7fd1048380b3'
+AB_API_KEY: '25760341dce95b825bdb901f48e49a6ce37fa71c8a22694d1755d8221e9651388a9d166517b36bb6'
+URLSCAN_IO_KEY: '07dba5a4-9309-41be-847e-5d4a2c752342'
+HIBP_API_KEY: 'Enter HaveIBeenPwned API Key Here'
+EMAILREP_API_KEY: 'dek7nizxdbx36k29fhd0aduocml1u33sru1wg9yq46kpyvp0'
+
+phishtank:
+  appname: 'Enter Phishtank Application Name Here'
+  api: 'Enter Phishtank API Key Here'
+  download: False

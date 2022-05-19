@@ -1,0 +1,50 @@
+
+ --------------------------------- 
+   Email Analysis Report : 
+ ---------------------------------
+   Email:       no-reply@bitblinx.com
+   Reputation:  medium
+   Suspicious:  False
+   Spotted:     0 Times
+   Blacklisted: False
+   Last Seen:   never
+   Known Spam:  False
+
+ --------------------------------- 
+   Domain Report 
+ --------------------------------- 
+
+   Domain:        @bitblinx.com
+   Domain Exists: True
+   Domain Rep:    medium
+   Domain Age:    882 Days
+   New Domain:    False
+   Deliverable:   False
+   Free Provider: False
+   Disposable:    False
+   Spoofable:     True
+
+ --------------------------------- 
+   Malicious Activity Report 
+ --------------------------------- 
+
+   Malicious Activity: False
+   Recent Activity:    False
+   Credentials Leaked: False
+   Found in breach:    False
+
+ --------------------------------- 
+   Profiles Found 
+ --------------------------------- 
+ 
+  No Profiles Found For This User
+
+ --------------------------------- 
+   Summary of Report: 
+ ---------------------------------
+ 
+   Not suspicious
+   This email is likely not deliverable
+   We have not seen any direct references to this email address, but the sender domain has medium reputation
+   We've observed no malicious or suspicious activity from this address
+   

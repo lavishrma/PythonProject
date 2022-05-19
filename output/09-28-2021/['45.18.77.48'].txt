@@ -1,0 +1,61 @@
+
+ ---------------------------------
+ WHO IS REPORT:
+ ---------------------------------
+
+ CIDR:      45.16.0.0/12
+ Name:      SIS-80-11-25-2014
+ Range:     45.16.0.0 - 45.31.255.255
+ Descr:     AT&T Corp.
+ Country:   US
+ State:     WA
+ City:      Redmond
+ Address:   7277 164th Ave NE, Attn: IP Management
+ Post Code: 98052
+ Created:   2014-12-11
+ Updated:   2018-07-19
+ ---------------------------------
+ WHO IS REPORT:
+ ---------------------------------
+
+ CIDR:      45.16.0.0/12
+ Name:      SIS-80-11-25-2014
+ Range:     45.16.0.0 - 45.31.255.255
+ Descr:     AT&T Corp.
+ Country:   US
+ State:     WA
+ City:      Redmond
+ Address:   7277 164th Ave NE, Attn: IP Management
+ Post Code: 98052
+ Created:   2014-12-11
+ Updated:   2018-07-19
+ ---------------------------------
+ WHO IS REPORT:
+ ---------------------------------
+
+ CIDR:      45.16.0.0/12
+ Name:      SIS-80-11-25-2014
+ Range:     45.16.0.0 - 45.31.255.255
+ Descr:     AT&T Corp.
+ Country:   US
+ State:     WA
+ City:      Redmond
+ Address:   7277 164th Ave NE, Attn: IP Management
+ Post Code: 98052
+ Created:   2014-12-11
+ Updated:   2018-07-19
+ ---------------------------------
+ WHO IS REPORT:
+ ---------------------------------
+
+ CIDR:      45.16.0.0/12
+ Name:      SIS-80-11-25-2014
+ Range:     45.16.0.0 - 45.31.255.255
+ Descr:     AT&T Corp.
+ Country:   US
+ State:     WA
+ City:      Redmond
+ Address:   7277 164th Ave NE, Attn: IP Management
+ Post Code: 98052
+ Created:   2014-12-11
+ Updated:   2018-07-19
