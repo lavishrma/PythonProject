@@ -101,7 +101,7 @@ class cBinaryFile:
     def ungets(self, bytes):
         bytes.reverse()
         self.ungetted.extend(bytes)
-
+#TERERGJNOAERNK'GVBDRAGAPGOIJABHBIRU 
 class cPDFDate:
     def __init__(self):
         self.state = 0
